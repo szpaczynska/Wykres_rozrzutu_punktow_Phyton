@@ -1,1 +1,1 @@
-# Wykres_rozrzutu_punktow_Phyton
+# Wykres_rozrzutu_punktow_Python
